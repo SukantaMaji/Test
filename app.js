@@ -1,2 +1,3 @@
 let x = 40, y = 10;
-console.log(x+y);
+let z = x+y;
+console.log(z);
